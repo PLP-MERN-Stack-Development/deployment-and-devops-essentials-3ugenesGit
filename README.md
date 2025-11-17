@@ -5,6 +5,7 @@ This assignment focuses on deploying a full MERN stack application to production
 ## Assignment Overview
 
 You will:
+
 1. Prepare your MERN application for production deployment
 2. Deploy the backend to a cloud platform
 3. Deploy the frontend to a static hosting service
@@ -39,11 +40,13 @@ You will:
 ## Deployment Platforms
 
 ### Backend Deployment Options
+
 - **Render**: Easy to use, free tier available
 - **Railway**: Developer-friendly, generous free tier
 - **Heroku**: Well-established, extensive documentation
 
 ### Frontend Deployment Options
+
 - **Vercel**: Optimized for React apps, easy integration
 - **Netlify**: Great for static sites, good CI/CD
 - **GitHub Pages**: Free, integrated with GitHub
@@ -51,6 +54,7 @@ You will:
 ## CI/CD Pipeline
 
 The assignment includes templates for setting up GitHub Actions workflows:
+
 - `frontend-ci.yml`: Tests and builds the React application
 - `backend-ci.yml`: Tests the Express.js backend
 - `frontend-cd.yml`: Deploys the frontend to your chosen platform
@@ -74,4 +78,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Render Documentation](https://render.com/docs)
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
-- [Netlify Documentation](https://docs.netlify.com/) 
+- [Netlify Documentation](https://docs.netlify.com/)
